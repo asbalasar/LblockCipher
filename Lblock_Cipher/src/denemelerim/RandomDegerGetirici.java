@@ -7,10 +7,7 @@ package denemelerim;
 
 import java.util.Random;
 
-/**
- *
- * @author Emin Guney
- */
+
 public class RandomDegerGetirici extends java.util.Random{
     
     public static int[] nAdetRandomBitGetir(int n){

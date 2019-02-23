@@ -5,10 +5,6 @@
  */
 package denemelerim;
 
-/**
- *
- * @author Emin Guney
- */
 public class LBlock {
     private static final byte [][] S = {{
         14, 9, 15, 0, 13, 4, 10, 11, 1, 2, 8, 3, 7, 6, 12, 5
